@@ -1,0 +1,26 @@
+Description = ""
+Keywords =  ""
+Subtitle = ""
+AuthorImg = "/img/avatar.png"
+AuthorName = "Venyo Wong"
+Introduce = "Hou tui, wo yao kai shi zhuang bi le."
+DateFormat = "2006-01-02"
+YearFormat = "2006年"
+MonthFormat = "01-02"
+
+ArticleDeclContent = "本博客文章除特别声明外，均采用 <a href='https://creativecommons.org/licenses/by-nc-sa/3.0/' target='_blank' style='text-decoration: underline;'>CC BY-NC-SA 3.0</a>许可协议，转载请注明出处！"
+
+[Footer]
+  StorageLink = "https://github.com/"
+  StorageName = "Github"
+  ICPLink = "http://www.beian.miit.gov.cn/"
+  ICPNo = "闽ICP备18004605号"
+
+[[Socials]]
+  Name = "GitHub"
+  Icon = "github"
+  URL = "https://github.com/venyowong"
+
+[[Links]]
+  Name = "卡拉云低代码工具"
+  Permalink = "https://kalacloud.com/"

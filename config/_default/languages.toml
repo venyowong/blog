@@ -1,0 +1,5 @@
+[zh-CN]
+  title = "Venyo Wong's blog"
+  languageName = "中文"
+  weight = 1
+  contentdir = "content/zh-CN"

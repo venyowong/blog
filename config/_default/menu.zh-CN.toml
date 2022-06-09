@@ -1,0 +1,10 @@
+[[Main]]
+  Name = "首页"
+  Pre = "home"
+  URL = "/"
+  Weight = 1
+[[Main]]
+  Name = "归档"
+  Pre = "archive"
+  URL = "post"
+  Weight = 2
