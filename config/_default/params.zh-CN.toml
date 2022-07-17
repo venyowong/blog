@@ -13,7 +13,7 @@ ArticleDeclContent = "本博客文章除特别声明外，均采用 <a href='htt
 [Footer]
   StorageLink = "https://github.com/"
   StorageName = "Github"
-  ICPLink = "http://www.beian.miit.gov.cn/"
+  ICPLink = "https://beian.miit.gov.cn/"
   ICPNo = "闽ICP备18004605号"
 
 [[Socials]]

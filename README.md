@@ -1,6 +1,9 @@
 - hugo new site blog
+- cd blog
 - git init
 - cd themes
 - git clone --recurse-submodules https://github.com/elkan1788/hugo-theme-next.git
 - 拷贝config和content到站点根目录下面
+- 替换 \blog\themes\hugo-theme-next\static\img\avatar.png 和 \blog\themes\hugo-theme-next\static\img\favicon.ico
+- \blog\themes\hugo-theme-next\static\css\main.css .article-copyright-img、.reward-qr-info 设置为 display: none;
 - hugo -D

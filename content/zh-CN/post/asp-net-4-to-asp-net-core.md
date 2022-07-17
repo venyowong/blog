@@ -1,6 +1,6 @@
 ---
 title: ASP.NET 4 迁移到 ASP.NET Core 的部分改变
-date: 2020-01-28 12:50:47
+date: 2020-01-28
 tags:
   - .net core
   - asp.net

@@ -1,6 +1,6 @@
 ---
 title: 使用 Elasticsearch 的 NGram 分词器处理模糊匹配
-date: 2020-01-28 13:02:45
+date: 2020-01-28
 tags:
   - elasticsearch
   - ngram

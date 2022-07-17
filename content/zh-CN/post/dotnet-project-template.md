@@ -1,6 +1,6 @@
 ---
 title: .net core 项目模板介绍
-date: 2020-08-06 19:30:14
+date: 2020-08-06
 tags:
   - .net core
 ---

@@ -1,6 +1,6 @@
 ---
 title: 使用 Nlog 将日志打印到 Logstash 的监控接口
-date: 2020-01-28 12:36:21
+date: 2020-01-28
 tags: 
   - .net
   - nlog 
